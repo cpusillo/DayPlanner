@@ -1,5 +1,6 @@
 # dayPlanner
-dayPlanner is a simple daily time-entry application built around the workday hours of 9AM - 5PM!
+dayPlanner is a simple daily schedule application built around the workday hours of 9AM - 5PM.
+Keep track of important todos, or manage your own meeting schedules.
 
 [Click here to try it!](https://cpusillo.github.io/dayPlanner/)
 
