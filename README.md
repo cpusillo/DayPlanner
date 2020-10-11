@@ -14,3 +14,5 @@ Enter your important schedule item into the appropriate hour timeblock and hit "
 * The grey boxes indicate that the respective hour time blocks are in the past.
 * The red box indicates that it is the current timeblock! (i.e. at 2pm the 2pm block will be red).
 * The green boxes indicate that the respective hour time blocks are in the future! 
+
+![Image of application](https://github.com/cpusillo/dayPlanner/blob/main/assets/img/screenshot-1.jpg)
