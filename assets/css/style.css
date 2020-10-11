@@ -20,7 +20,7 @@ body {
     float: left;
     background-color: white;
     height: 100%;
-    width: 5%;
+    width: 10%;
     float: left;
     padding-right: 5px;
     font-size: 12px;
@@ -31,7 +31,7 @@ body {
       border-top: 1px solid black;
       border-bottom: none;
       height: 100%;
-      width: 90%;
+      width: 82%;
       background-color: #e7e7e7;
       resize: none;
       font-size: 12px;
@@ -43,7 +43,7 @@ body {
     background-color: #3498db;
     color: #ffffff;
     height: 100%;
-    width: 5%;
+    width: 8%;
     margin: 0;
     border: 1px solid #256997;
     transition: background-color 0.5s ease;
@@ -56,3 +56,4 @@ body {
       background-color: #256997;
       transition: background-color 0.5s ease;
   }
+
