@@ -16,3 +16,5 @@ Enter your important schedule item into the appropriate hour timeblock and hit "
 * The green boxes indicate that the respective hour time blocks are in the future! 
 
 ![Image of application](https://github.com/cpusillo/dayPlanner/blob/main/assets/img/screenshot-1.jpg)
+
+![Image of application](https://github.com/cpusillo/dayPlanner/blob/main/assets/img/Screenshot%202020-10-12%20095114.jpg)
