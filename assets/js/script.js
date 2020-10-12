@@ -2,7 +2,7 @@
 // get our document ready for jQuery.
 $(document).ready(function () {
     // Declare our time and date variables using moment.js
-    var todaysDate = moment().format('MMM Do YYYY');
+    var todaysDate = moment().format('dddd MMM Do YYYY');
     var timeNow = moment().format('hh:mm a');
     var timeCompare = moment().format("H");
     var times = [9, 10, 11, 12, 13,14,15,16,17];    
