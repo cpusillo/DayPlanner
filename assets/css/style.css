@@ -1,3 +1,4 @@
+/* GLOBAL */
 body {
     background: white; 
     color: #323232;
@@ -5,16 +6,21 @@ body {
   .jumbotron {
       text-align: center !important;
   }
+
+/* TIMEBLOCKS SECTION */
   ul{
     list-style: none;
-  }
-  .blocks {
-      width: 100%;
-      height: 60px;
   }
   li {
     height: 100%;
     width: 100%;
+  }
+  li:last-child{
+    border-bottom: 1px solid black;
+  }
+  .blocks {
+      width: 100%;
+      height: 60px;
   }
   .timeArea {
     float: left;
