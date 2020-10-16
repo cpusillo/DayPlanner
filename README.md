@@ -15,6 +15,8 @@ Enter your important schedule item into the appropriate hour timeblock and hit "
 * The red box indicates that it is the current timeblock! (i.e. at 2pm the 2pm block will be red).
 * The green boxes indicate that the respective hour time blocks are in the future! 
 
+What the app looks like:
 ![Image of application](https://github.com/cpusillo/dayPlanner/blob/main/assets/img/screenshot-1.jpg)
 
+Example of the color scheme:
 ![Image of application](https://github.com/cpusillo/dayPlanner/blob/main/assets/img/Screenshot%202020-10-12%20095114.jpg)
